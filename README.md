@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=abdalla-hiil&label=Profile%20views" />
 </p>
 
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdalla-hiil" alt="abdalla-hiil" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **Machine Learning, Data Analysis**
 - 💬 Ask me about **Python, SQL, Data Analysis, basic ML**
 - 📫 How to reach me: **your-email@example.com**
