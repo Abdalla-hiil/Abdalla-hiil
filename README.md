@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Data Science, Machine Learning, and Cyber Security**
-- 💬 Ask me about **Networking, Data Analysis, SQL, Cyber Security fundamentals, and basic Machine Learning**
+- 💬 Ask me about **Networking, Data Analysis, SQL, Cyber Security fundamentals, basic Machine Learning, Graphic design**
 - 🎯 Interested in **technology, problem-solving, and continuous learning**
 - 📫 How to reach me: **abdullahiabdurahman456@gmail.com**
 
@@ -23,6 +23,7 @@
 - SQL Databases
 - Python for data analysis (NumPy, Pandas, Matplotlib)
 - Frontend development (HTML, CSS, JS)
+- Graphic design(PS, Ai)
 
 ---
 
@@ -46,18 +47,13 @@
    <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Networking" width="40" height="40"/>
   </a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+</a>
+
 </p>
 
----
-
-### 📊 Top Languages
-<p align="center">
-  <img src="https://gitmystat.vercel.app/api/top-languages?username=abdalla-hiil" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdalla-hiil" alt="GitHub Streak" />
-</p>
