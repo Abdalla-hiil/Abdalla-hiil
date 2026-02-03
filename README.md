@@ -22,10 +22,12 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla-hiil&show_icons=true&locale=en&layout=compact" alt="abdalla-hiil" />
+<p align="center">
+<img src="https://gitmystat.vercel.app/api/top-languages?username=abdalla-hiil" />
+
 </p>
 
+
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=abdalla-hiil" alt="abdalla-hiil" />
+  <img align="center" src="https://streak-stats.demolab.com?user=abdalla-hiil" alt="Streaks" />
 </p>
