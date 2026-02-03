@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalla Hiil</h1>
+<h3 align="center"> My full name is Abdullahi Abdirahman Yusuf</h3> 
 <h3 align="center">Student | Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -9,9 +10,9 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Data Science, Machine Learning, and Cyber Security**
-- 💬 Ask me about **Python, SQL, Data Analysis, basic Machine Learning**
-- 🎯 Interested in **technology, problem solving, and continuous learning**
-- 📫 How to reach me: **your-email@example.com**
+- 💬 Ask me about **Networking, Data Analysis, SQL, Cyber Security fundamentals, and basic Machine Learning**
+- 🎯 Interested in **technology, problem-solving, and continuous learning**
+- 📫 How to reach me: **abdullahiabdurahman456@gmail.com**
 
 ---
 
@@ -20,8 +21,8 @@
 - Cyber Security fundamentals
 - Data Analysis
 - SQL Databases
-- Python programming
-- Frontend development (HTML, CSS)
+- Python for data analysis (NumPy, Pandas, Matplotlib)
+- Frontend development (HTML, CSS, JS)
 
 ---
 
@@ -35,6 +36,15 @@
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Networking" width="40" height="40"/>
   </a>
 </p>
 
